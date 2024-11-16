@@ -12,3 +12,6 @@ Welcome to my repository for practice.
 
 3. **[turtle](turtle.md)**
    click to read about turtle.
+   
+4.**[lama](lama.md)**
+   lama is.... 
